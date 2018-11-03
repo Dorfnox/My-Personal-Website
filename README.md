@@ -7,5 +7,4 @@
   My Personal Website
 </h1>
 
-Check out my website built using [Gatsby](https://www.gatsbyjs.org/)!
-
+Check out my website built using [Gatsby](https://www.gatsbyjs.org/), React, and Redux!
